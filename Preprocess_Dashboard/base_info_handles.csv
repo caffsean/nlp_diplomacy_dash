@@ -1,0 +1,471 @@
+,Base,Country,ISO_A3,Embassy,HANDLE,ISO_A2,CountryName,CapitalName,CapitalLatitude,CapitalLongitude,ContinentName,Source
+0,Russia,AFGHANISTAN,AFG,TRUE,@RusEmbassyKabul,AF,Afghanistan,Kabul,34.5166666666667,69.183333,Asia,RUS
+1,United States of America,AFGHANISTAN,AFG,TRUE,@USEmbassyKabul,AF,Afghanistan,Kabul,34.5166666666667,69.183333,Asia,USA
+2,Russia,ÅLAND ISLANDS,ALA,FALSE,,AX,Aland Islands,Mariehamn,60.116667,19.9,Europe,RUS
+3,United States of America,ÅLAND ISLANDS,ALA,FALSE,,AX,Aland Islands,Mariehamn,60.116667,19.9,Europe,USA
+4,Russia,ALBANIA,ALB,TRUE,@AlEmbassyRussia,AL,Albania,Tirana,41.3166666666667,19.816667,Europe,RUS
+5,United States of America,ALBANIA,ALB,TRUE,@USEmbassyTirana,AL,Albania,Tirana,41.3166666666667,19.816667,Europe,USA
+6,Russia,ALGERIA,DZA,TRUE,@AmbRus_Algerie,DZ,Algeria,Algiers,36.75,3.05,Africa,RUS
+7,United States of America,ALGERIA,DZA,TRUE,@USEmbAlgiers,DZ,Algeria,Algiers,36.75,3.05,Africa,USA
+8,Russia,AMERICAN SAMOA,ASM,FALSE,,AS,American Samoa,Pago Pago,-14.2666666666667,-170.7,Australia,RUS
+9,United States of America,AMERICAN SAMOA,ASM,FALSE,,AS,American Samoa,Pago Pago,-14.2666666666667,-170.7,Australia,USA
+10,Russia,ANDORRA,AND,Spain,,AD,Andorra,Andorra la Vella,42.5,1.516667,Europe,RUS
+11,United States of America,ANDORRA,AND,Spain,,AD,Andorra,Andorra la Vella,42.5,1.516667,Europe,USA
+12,Russia,ANGOLA,AGO,TRUE,,AO,Angola,Luanda,-8.83333333333333,13.216667,Africa,RUS
+13,United States of America,ANGOLA,AGO,TRUE,,AO,Angola,Luanda,-8.83333333333333,13.216667,Africa,USA
+14,Russia,ANGUILLA,AIA,FALSE,,AI,Anguilla,The Valley,18.2166666666667,-63.05,North America,RUS
+15,United States of America,ANGUILLA,AIA,FALSE,,AI,Anguilla,The Valley,18.2166666666667,-63.05,North America,USA
+16,Russia,ANTIGUA AND BARBUDA,ATG,Jamaica,,AG,Antigua and Barbuda,Saint John's,17.1166666666667,-61.85,North America,RUS
+17,United States of America,ANTIGUA AND BARBUDA,ATG,Consulate,,AG,Antigua and Barbuda,Saint John's,17.1166666666667,-61.85,North America,USA
+18,Russia,ARGENTINA,ARG,TRUE,@EmbRusiaEnArgEs,AR,Argentina,Buenos Aires,-34.5833333333333,-58.666667,South America,RUS
+19,United States of America,ARGENTINA,ARG,TRUE,@USEmbArgentina,AR,Argentina,Buenos Aires,-34.5833333333333,-58.666667,South America,USA
+20,Russia,ARMENIA,ARM,TRUE,@armembrus,AM,Armenia,Yerevan,40.16666666666671,44.5,Europe,RUS
+21,United States of America,ARMENIA,ARM,TRUE,@usembarmenia,AM,Armenia,Yerevan,40.16666666666671,44.5,Europe,USA
+22,Russia,ARUBA,ABW,FALSE,,AW,Aruba,Oranjestad,12.5166666666667,-70.033333,North America,RUS
+23,United States of America,ARUBA,ABW,Consulate,,AW,Aruba,Oranjestad,12.5166666666667,-70.033333,North America,USA
+24,Russia,AUSTRALIA,AUS,TRUE,@RusEmbAU,AU,Australia,Canberra,-35.2666666666667,149.133333,Australia,RUS
+25,United States of America,AUSTRALIA,AUS,TRUE,@USAembassyinOZ,AU,Australia,Canberra,-35.2666666666667,149.133333,Australia,USA
+26,Russia,AUSTRIA,AUT,TRUE,@RusBotWien,AT,Austria,Vienna,48.2,16.366667,Europe,RUS
+27,United States of America,AUSTRIA,AUT,TRUE,@usembvienna,AT,Austria,Vienna,48.2,16.366667,Europe,USA
+28,Russia,AZERBAIJAN,AZE,TRUE,,AZ,Azerbaijan,Baku,40.3833333333333,49.866667,Europe,RUS
+29,United States of America,AZERBAIJAN,AZE,TRUE,@USEmbassyBaku,AZ,Azerbaijan,Baku,40.3833333333333,49.866667,Europe,USA
+30,Russia,BAHAMAS,BHS,Cuba,,BS,Bahamas,Nassau,25.0833333333333,-77.35,North America,RUS
+31,United States of America,BAHAMAS,BHS,TRUE,@USEmbassyNassau,BS,Bahamas,Nassau,25.0833333333333,-77.35,North America,USA
+32,Russia,BAHRAIN,BHR,TRUE,@RusEmbBAH,BH,Bahrain,Manama,26.2333333333333,50.566667,Asia,RUS
+33,United States of America,BAHRAIN,BHR,TRUE,@USEmbassyManama,BH,Bahrain,Manama,26.2333333333333,50.566667,Asia,USA
+34,Russia,BANGLADESH,BGD,TRUE,,BD,Bangladesh,Dhaka,23.7166666666667,90.4,Asia,RUS
+35,United States of America,BANGLADESH,BGD,TRUE,@usembassydhaka,BD,Bangladesh,Dhaka,23.7166666666667,90.4,Asia,USA
+36,Russia,BARBADOS,BRB,Guyana,,BB,Barbados,Bridgetown,13.1,-59.616667,North America,RUS
+37,United States of America,BARBADOS,BRB,TRUE,@USEmbassyBtown,BB,Barbados,Bridgetown,13.1,-59.616667,North America,USA
+38,Russia,BELARUS,BLR,TRUE,@RusEmbassyMinsk,BY,Belarus,Minsk,53.9,27.566667,Europe,RUS
+39,United States of America,BELARUS,BLR,TRUE,@USEmbBy,BY,Belarus,Minsk,53.9,27.566667,Europe,USA
+40,Russia,BELGIUM,BEL,TRUE,@amrusbel,BE,Belgium,Brussels,50.83333333333329,4.333333,Europe,RUS
+41,United States of America,BELGIUM,BEL,TRUE,@usembbrussels,BE,Belgium,Brussels,50.83333333333329,4.333333,Europe,USA
+42,Russia,BELIZE,BLZ,Mexico,,BZ,Belize,Belmopan,17.25,-88.766667,Central America,RUS
+43,United States of America,BELIZE,BLZ,TRUE,@USMissionBelize,BZ,Belize,Belmopan,17.25,-88.766667,Central America,USA
+44,Russia,BENIN,BEN,TRUE,@AmbRusBen,BJ,Benin,Porto-Novo,6.48333333333333,2.616667,Africa,RUS
+45,United States of America,BENIN,BEN,TRUE,@USEmbassyBenin,BJ,Benin,Porto-Novo,6.48333333333333,2.616667,Africa,USA
+46,Russia,BERMUDA,BMU,FALSE,,BM,Bermuda,Hamilton,32.2833333333333,-64.783333,North America,RUS
+47,United States of America,BERMUDA,BMU,Consulate,@USConsHamilton,BM,Bermuda,Hamilton,32.2833333333333,-64.783333,North America,USA
+48,Russia,BHUTAN,BTN,FALSE,,BT,Bhutan,Thimphu,27.4666666666667,89.633333,Asia,RUS
+49,United States of America,BHUTAN,BTN,India,,BT,Bhutan,Thimphu,27.4666666666667,89.633333,Asia,USA
+50,Russia,"BOLIVIA, PLURINATIONAL STATE OF",BOL,TRUE,@EmbRusBoliviaEs,BO,Bolivia,La Paz,-16.5,-68.15,South America,RUS
+51,United States of America,"BOLIVIA, PLURINATIONAL STATE OF",BOL,TRUE,@EmbEUAenBolivia,BO,Bolivia,La Paz,-16.5,-68.15,South America,USA
+52,Russia,BOSNIA AND HERZEGOVINA,BIH,TRUE,@RusEmbBih,BA,Bosnia and Herzegovina,Sarajevo,43.8666666666667,18.416667,Europe,RUS
+53,United States of America,BOSNIA AND HERZEGOVINA,BIH,TRUE,@USEmbassySJJ,BA,Bosnia and Herzegovina,Sarajevo,43.8666666666667,18.416667,Europe,USA
+54,Russia,BOTSWANA,BWA,TRUE,@EmbRusBotswana,BW,Botswana,Gaborone,-24.6333333333333,25.9,Africa,RUS
+55,United States of America,BOTSWANA,BWA,TRUE,@USEmbassyBW,BW,Botswana,Gaborone,-24.6333333333333,25.9,Africa,USA
+56,Russia,BRAZIL,BRA,TRUE,@embaixadarussa,BR,Brazil,Brasilia,-15.7833333333333,-47.916667,South America,RUS
+57,United States of America,BRAZIL,BRA,TRUE,@EmbaixadaEUA,BR,Brazil,Brasilia,-15.7833333333333,-47.916667,South America,USA
+58,Russia,BRUNEI DARUSSALAM,BRN,TRUE,@RusEmbBrunei,BN,Brunei Darussalam,Bandar Seri Begawan,4.88333333333333,114.933333,Asia,RUS
+59,United States of America,BRUNEI DARUSSALAM,BRN,TRUE,@USEmbassyBSB,BN,Brunei Darussalam,Bandar Seri Begawan,4.88333333333333,114.933333,Asia,USA
+60,Russia,BULGARIA,BGR,TRUE,@RusEmbBul,BG,Bulgaria,Sofia,42.6833333333333,23.316667,Europe,RUS
+61,United States of America,BULGARIA,BGR,TRUE,@USEmbassySofia,BG,Bulgaria,Sofia,42.6833333333333,23.316667,Europe,USA
+62,Russia,BURKINA FASO,BFA,Ivory coast,,BF,Burkina Faso,Ouagadougou,12.3666666666667,-1.516667,Africa,RUS
+63,United States of America,BURKINA FASO,BFA,TRUE,@Usembassyouaga,BF,Burkina Faso,Ouagadougou,12.3666666666667,-1.516667,Africa,USA
+64,Russia,BURUNDI,BDI,TRUE,@ambrusburundi,BI,Burundi,Bujumbura,-3.36666666666667,29.35,Africa,RUS
+65,United States of America,BURUNDI,BDI,TRUE,@US_Emb_Burundi,BI,Burundi,Bujumbura,-3.36666666666667,29.35,Africa,USA
+66,Russia,CABO VERDE,CPV,TRUE,,CV,Cape Verde,Praia,14.9166666666667,-23.516667,Africa,RUS
+67,United States of America,CABO VERDE,CPV,TRUE,@USEmbassyPraia,CV,Cape Verde,Praia,14.9166666666667,-23.516667,Africa,USA
+68,Russia,CAMBODIA,KHM,TRUE,@CamboRusEmba,KH,Cambodia,Phnom Penh,11.55,104.916667,Asia,RUS
+69,United States of America,CAMBODIA,KHM,TRUE,@USEmbPhnomPenh,KH,Cambodia,Phnom Penh,11.55,104.916667,Asia,USA
+70,Russia,CAMEROON,CMR,TRUE,,CM,Cameroon,Yaounde,3.8666666666666702,11.516667,Africa,RUS
+71,United States of America,CAMEROON,CMR,TRUE,@USEmbYaounde,CM,Cameroon,Yaounde,3.8666666666666702,11.516667,Africa,USA
+72,Russia,CANADA,CAN,TRUE,@RussianEmbassyC,CA,Canada,Ottawa,45.41666666666671,-75.7,Central America,RUS
+73,United States of America,CANADA,CAN,TRUE,@usembassyottawa,CA,Canada,Ottawa,45.41666666666671,-75.7,Central America,USA
+74,Russia,CAYMAN ISLANDS,CYM,FALSE,,KY,Cayman Islands,George Town,19.3,-81.383333,North America,RUS
+75,United States of America,CAYMAN ISLANDS,CYM,Consulate,,KY,Cayman Islands,George Town,19.3,-81.383333,North America,USA
+76,Russia,CENTRAL AFRICAN REPUBLIC,CAF,TRUE,,CF,Central African Republic,Bangui,4.36666666666667,18.583333,Africa,RUS
+77,United States of America,CENTRAL AFRICAN REPUBLIC,CAF,TRUE,@EmbassyBangui,CF,Central African Republic,Bangui,4.36666666666667,18.583333,Africa,USA
+78,Russia,CHAD,TCD,TRUE,,TD,Chad,N'Djamena,12.1,15.033333,Africa,RUS
+79,United States of America,CHAD,TCD,TRUE,,TD,Chad,N'Djamena,12.1,15.033333,Africa,USA
+80,Russia,CHILE,CHL,TRUE,@EmbRusChile,CL,Chile,Santiago,-33.45,-70.666667,South America,RUS
+81,United States of America,CHILE,CHL,TRUE,@EmbajadaEEUUcl,CL,Chile,Santiago,-33.45,-70.666667,South America,USA
+82,Russia,CHINA,CHN,TRUE,@Rusembchina,CN,China,Beijing,39.91666666666671,116.383333,Asia,RUS
+83,United States of America,CHINA,CHN,TRUE,@USA_China_Talk,CN,China,Beijing,39.91666666666671,116.383333,Asia,USA
+84,Russia,CHRISTMAS ISLAND,CXR,FALSE,,CX,Christmas Island,The Settlement,-10.4166666666667,105.716667,Australia,RUS
+85,United States of America,CHRISTMAS ISLAND,CXR,FALSE,,CX,Christmas Island,The Settlement,-10.4166666666667,105.716667,Australia,USA
+86,Russia,COCOS (KEELING) ISLANDS,CCK,FALSE,,CC,Cocos Islands,West Island,-12.1666666666667,96.833333,Australia,RUS
+87,United States of America,COCOS (KEELING) ISLANDS,CCK,FALSE,,CC,Cocos Islands,West Island,-12.1666666666667,96.833333,Australia,USA
+88,Russia,COLOMBIA,COL,TRUE,@RusiaColombia,CO,Colombia,Bogota,4.6,-74.083333,South America,RUS
+89,United States of America,COLOMBIA,COL,TRUE,@USEmbassyBogota,CO,Colombia,Bogota,4.6,-74.083333,South America,USA
+90,Russia,COMOROS,COM,Madagascar,,KM,Comoros,Moroni,-11.7,43.233333,Africa,RUS
+91,United States of America,COMOROS,COM,TRUE,@USComoros,KM,Comoros,Moroni,-11.7,43.233333,Africa,USA
+92,Russia,CONGO,COG,TRUE,@Russie_au_Congo,CG,Republic of Congo,Brazzaville,-4.25,15.283333,Africa,RUS
+93,United States of America,CONGO,COG,TRUE,@USEmbassyBrazza,CG,Republic of Congo,Brazzaville,-4.25,15.283333,Africa,USA
+94,Russia,"CONGO, DEMOCRATIC REPUBLIC OF THE",COD,TRUE,@ambrus_drc,CD,Democratic Republic of the Congo,Kinshasa,-4.31666666666667,15.3,Africa,RUS
+95,United States of America,"CONGO, DEMOCRATIC REPUBLIC OF THE",COD,TRUE,@USEmbKinshasa,CD,Democratic Republic of the Congo,Kinshasa,-4.31666666666667,15.3,Africa,USA
+96,Russia,COOK ISLANDS,COK,FALSE,,CK,Cook Islands,Avarua,-21.2,-159.766667,Australia,RUS
+97,United States of America,COOK ISLANDS,COK,FALSE,,CK,Cook Islands,Avarua,-21.2,-159.766667,Australia,USA
+98,Russia,COSTA RICA,CRI,TRUE,@recostarica,CR,Costa Rica,San Jose,9.93333333333333,-84.083333,Central America,RUS
+99,United States of America,COSTA RICA,CRI,TRUE,@usembassysjo,CR,Costa Rica,San Jose,9.93333333333333,-84.083333,Central America,USA
+100,Russia,CÔTE D'IVOIRE,CIV,TRUE,@AmbRusRCI,CI,Cote d'Ivoire,Yamoussoukro,6.81666666666667,-5.266667,Africa,RUS
+101,United States of America,CÔTE D'IVOIRE,CIV,TRUE,@USEmbAbidjan,CI,Cote d'Ivoire,Yamoussoukro,6.81666666666667,-5.266667,Africa,USA
+102,Russia,CROATIA,HRV,TRUE,@RusEmbCro,HR,Croatia,Zagreb,45.8,16.0,Europe,RUS
+103,United States of America,CROATIA,HRV,TRUE,@USEmbZagreb,HR,Croatia,Zagreb,45.8,16.0,Europe,USA
+104,Russia,CUBA,CUB,TRUE,@EmbRusCuba,CU,Cuba,Havana,23.1166666666667,-82.35,North America,RUS
+105,United States of America,CUBA,CUB,TRUE,@USEmbCuba,CU,Cuba,Havana,23.1166666666667,-82.35,North America,USA
+106,Russia,CURAÇAO,CUW,FALSE,,CW,Curaçao,Willemstad,12.1,-68.916667,North America,RUS
+107,United States of America,CURAÇAO,CUW,Consulate,,CW,Curaçao,Willemstad,12.1,-68.916667,North America,USA
+108,Russia,CYPRUS,CYP,TRUE,@RusEmbCyprus,CY,Cyprus,Nicosia,35.1666666666667,33.366667,Europe,RUS
+109,United States of America,CYPRUS,CYP,TRUE,@USEmbassyCyprus,CY,Cyprus,Nicosia,35.1666666666667,33.366667,Europe,USA
+110,Russia,CZECHIA,CZE,TRUE,@AmbRusCz,CZ,Czech Republic,Prague,50.08333333333329,14.466667,Europe,RUS
+111,United States of America,CZECHIA,CZE,TRUE,@USEmbassyPrague,CZ,Czech Republic,Prague,50.08333333333329,14.466667,Europe,USA
+112,Russia,DENMARK,DNK,TRUE,@RusEmbDK,DK,Denmark,Copenhagen,55.66666666666671,12.583333,Europe,RUS
+113,United States of America,DENMARK,DNK,TRUE,@usembdenmark,DK,Denmark,Copenhagen,55.66666666666671,12.583333,Europe,USA
+114,Russia,DJIBOUTI,DJI,TRUE,,DJ,Djibouti,Djibouti,11.5833333333333,43.15,Africa,RUS
+115,United States of America,DJIBOUTI,DJI,TRUE,@US_Emb_Djibouti,DJ,Djibouti,Djibouti,11.5833333333333,43.15,Africa,USA
+116,Russia,DOMINICA,DMA,Jamaica,,DM,Dominica,Roseau,15.3,-61.4,North America,RUS
+117,United States of America,DOMINICA,DMA,Barbados,,DM,Dominica,Roseau,15.3,-61.4,North America,USA
+118,Russia,DOMINICAN REPUBLIC,DOM,Venezuela,,DO,Dominican Republic,Santo Domingo,18.4666666666667,-69.9,North America,RUS
+119,United States of America,DOMINICAN REPUBLIC,DOM,TRUE,@EmbajadaUSAenRD,DO,Dominican Republic,Santo Domingo,18.4666666666667,-69.9,North America,USA
+120,Russia,ECUADOR,ECU,TRUE,@RusEmb_Ecuador,EC,Ecuador,Quito,-0.216666666666667,-78.5,South America,RUS
+121,United States of America,ECUADOR,ECU,TRUE,@USembassyEC,EC,Ecuador,Quito,-0.216666666666667,-78.5,South America,USA
+122,Russia,EGYPT,EGY,TRUE,@Rusembegypt,EG,Egypt,Cairo,30.05,31.25,Africa,RUS
+123,United States of America,EGYPT,EGY,TRUE,@USEmbassyCairo,EG,Egypt,Cairo,30.05,31.25,Africa,USA
+124,Russia,EL SALVADOR,SLV,Nicaragua,,SV,El Salvador,San Salvador,13.7,-89.2,Central America,RUS
+125,United States of America,EL SALVADOR,SLV,TRUE,@USEmbassySV,SV,El Salvador,San Salvador,13.7,-89.2,Central America,USA
+126,Russia,EQUATORIAL GUINEA,GNQ,Cameroon,,GQ,Equatorial Guinea,Malabo,3.75,8.783333,Africa,RUS
+127,United States of America,EQUATORIAL GUINEA,GNQ,TRUE,@USEmbassyEG,GQ,Equatorial Guinea,Malabo,3.75,8.783333,Africa,USA
+128,Russia,ERITREA,ERI,TRUE,@rusemberitrea,ER,Eritrea,Asmara,15.3333333333333,38.933333,Africa,RUS
+129,United States of America,ERITREA,ERI,TRUE,,ER,Eritrea,Asmara,15.3333333333333,38.933333,Africa,USA
+130,Russia,ESTONIA,EST,TRUE,@RusEmbEst,EE,Estonia,Tallinn,59.4333333333333,24.716667,Europe,RUS
+131,United States of America,ESTONIA,EST,TRUE,@USEmbTallinn,EE,Estonia,Tallinn,59.4333333333333,24.716667,Europe,USA
+132,Russia,ESWATINI,SWZ,Mozambique,,SZ,Swaziland,Mbabane,-26.3166666666667,31.133333,Africa,RUS
+133,United States of America,ESWATINI,SWZ,TRUE,@USEmbEswatini,SZ,Swaziland,Mbabane,-26.3166666666667,31.133333,Africa,USA
+134,Russia,ETHIOPIA,ETH,TRUE,@RusEmbEthiopia,ET,Ethiopia,Addis Ababa,9.03333333333333,38.7,Africa,RUS
+135,United States of America,ETHIOPIA,ETH,TRUE,@USEmbassyAddis,ET,Ethiopia,Addis Ababa,9.03333333333333,38.7,Africa,USA
+136,Russia,FALKLAND ISLANDS (MALVINAS),FLK,FALSE,,FK,Falkland Islands,Stanley,-51.7,-57.85,South America,RUS
+137,United States of America,FALKLAND ISLANDS (MALVINAS),FLK,FALSE,,FK,Falkland Islands,Stanley,-51.7,-57.85,South America,USA
+138,Russia,FAROE ISLANDS,FRO,FALSE,,FO,Faroe Islands,Torshavn,62.0,-6.766667,Europe,RUS
+139,United States of America,FAROE ISLANDS,FRO,FALSE,,FO,Faroe Islands,Torshavn,62.0,-6.766667,Europe,USA
+140,Russia,FIJI,FJI,Australia,,FJ,Fiji,Suva,-18.1333333333333,178.416667,Australia,RUS
+141,United States of America,FIJI,FJI,TRUE,@USEmbassySuva,FJ,Fiji,Suva,-18.1333333333333,178.416667,Australia,USA
+142,Russia,FINLAND,FIN,TRUE,@RussianEmbFinla,FI,Finland,Helsinki,60.16666666666671,24.933333,Europe,RUS
+143,United States of America,FINLAND,FIN,TRUE,@usembfinland,FI,Finland,Helsinki,60.16666666666671,24.933333,Europe,USA
+144,Russia,FRANCE,FRA,TRUE,@AmbRusFrance,FR,France,Paris,48.8666666666667,2.333333,Europe,RUS
+145,United States of America,FRANCE,FRA,TRUE,@USEmbassyFrance,FR,France,Paris,48.8666666666667,2.333333,Europe,USA
+146,Russia,FRENCH POLYNESIA,PYF,FALSE,,PF,French Polynesia,Papeete,-17.5333333333333,-149.566667,Australia,RUS
+147,United States of America,FRENCH POLYNESIA,PYF,Consulate,,PF,French Polynesia,Papeete,-17.5333333333333,-149.566667,Australia,USA
+148,Russia,FRENCH SOUTHERN TERRITORIES,ATF,FALSE,,TF,French Southern and Antarctic Lands,Port-aux-Français,-49.35,70.216667,Antarctica,RUS
+149,United States of America,FRENCH SOUTHERN TERRITORIES,ATF,FALSE,,TF,French Southern and Antarctic Lands,Port-aux-Français,-49.35,70.216667,Antarctica,USA
+150,Russia,GABON,GAB,TRUE,@ambrusga,GA,Gabon,Libreville,0.383333333333333,9.45,Africa,RUS
+151,United States of America,GABON,GAB,TRUE,@usembassygabon,GA,Gabon,Libreville,0.383333333333333,9.45,Africa,USA
+152,Russia,GAMBIA,GMB,Senegal,,GM,The Gambia,Banjul,13.45,-16.566667,Africa,RUS
+153,United States of America,GAMBIA,GMB,TRUE,@USEmbassyBanjul,GM,The Gambia,Banjul,13.45,-16.566667,Africa,USA
+154,Russia,GEORGIA,GEO,Switzerland,,GE,Georgia,Tbilisi,41.6833333333333,44.833333,Europe,RUS
+155,United States of America,GEORGIA,GEO,TRUE,@usingeo,GE,Georgia,Tbilisi,41.6833333333333,44.833333,Europe,USA
+156,Russia,GERMANY,DEU,TRUE,@RusBotschaft,DE,Germany,Berlin,52.5166666666667,13.4,Europe,RUS
+157,United States of America,GERMANY,DEU,TRUE,@usbotschaft,DE,Germany,Berlin,52.5166666666667,13.4,Europe,USA
+158,Russia,GHANA,GHA,TRUE,@RusEmbGhanaEng,GH,Ghana,Accra,5.55,-0.216667,Africa,RUS
+159,United States of America,GHANA,GHA,TRUE,@USEmbassyGhana,GH,Ghana,Accra,5.55,-0.216667,Africa,USA
+160,Russia,GIBRALTAR,GIB,FALSE,,GI,Gibraltar,Gibraltar,36.1333333333333,-5.35,Europe,RUS
+161,United States of America,GIBRALTAR,GIB,FALSE,,GI,Gibraltar,Gibraltar,36.1333333333333,-5.35,Europe,USA
+162,Russia,GREECE,GRC,TRUE,@RFEmbassyGr,GR,Greece,Athens,37.9833333333333,23.733333,Europe,RUS
+163,United States of America,GREECE,GRC,TRUE,@USEmbassyAthens,GR,Greece,Athens,37.9833333333333,23.733333,Europe,USA
+164,Russia,GREENLAND,GRL,FALSE,,GL,Greenland,Nuuk,64.1833333333333,-51.75,Central America,RUS
+165,United States of America,GREENLAND,GRL,Consulate,,GL,Greenland,Nuuk,64.1833333333333,-51.75,Central America,USA
+166,Russia,GRENADA,GRD,Guyana,,GD,Grenada,Saint George's,12.05,-61.75,North America,RUS
+167,United States of America,GRENADA,GRD,Barbados,,GD,Grenada,Saint George's,12.05,-61.75,North America,USA
+168,Russia,GUAM,GUM,FALSE,,GU,Guam,Hagatna,13.4666666666667,144.733333,Australia,RUS
+169,United States of America,GUAM,GUM,FALSE,,GU,Guam,Hagatna,13.4666666666667,144.733333,Australia,USA
+170,Russia,GUATEMALA,GTM,TRUE,@EmbRusaGuate,GT,Guatemala,Guatemala City,14.6166666666667,-90.516667,Central America,RUS
+171,United States of America,GUATEMALA,GTM,TRUE,@usembassyguate,GT,Guatemala,Guatemala City,14.6166666666667,-90.516667,Central America,USA
+172,Russia,GUERNSEY,GGY,FALSE,,GG,Guernsey,Saint Peter Port,49.45,-2.533333,Europe,RUS
+173,United States of America,GUERNSEY,GGY,FALSE,,GG,Guernsey,Saint Peter Port,49.45,-2.533333,Europe,USA
+174,Russia,GUINEA,GIN,TRUE,@RussieConakry,GN,Guinea,Conakry,9.5,-13.7,Africa,RUS
+175,United States of America,GUINEA,GIN,TRUE,@EmbassyConakry,GN,Guinea,Conakry,9.5,-13.7,Africa,USA
+176,Russia,GUINEA-BISSAU,GNB,TRUE,@RusBissau,GW,Guinea-Bissau,Bissau,11.85,-15.583333,Africa,RUS
+177,United States of America,GUINEA-BISSAU,GNB,FALSE,,GW,Guinea-Bissau,Bissau,11.85,-15.583333,Africa,USA
+178,Russia,GUYANA,GUY,TRUE,@rusembassy,GY,Guyana,Georgetown,6.8,-58.15,South America,RUS
+179,United States of America,GUYANA,GUY,TRUE,@EmbassyGuyana,GY,Guyana,Georgetown,6.8,-58.15,South America,USA
+180,Russia,HAITI,HTI,Venezuela,,HT,Haiti,Port-au-Prince,18.5333333333333,-72.333333,North America,RUS
+181,United States of America,HAITI,HTI,TRUE,@USEmbassyHaiti,HT,Haiti,Port-au-Prince,18.5333333333333,-72.333333,North America,USA
+182,Russia,HOLY SEE,VAT,TRUE,@emb_rus,VA,Vatican City,Vatican City,41.9,12.45,Europe,RUS
+183,United States of America,HOLY SEE,VAT,TRUE,@USinHolySee,VA,Vatican City,Vatican City,41.9,12.45,Europe,USA
+184,Russia,HONDURAS,HND,Nicaragua,@EmbajadadeHond2,HN,Honduras,Tegucigalpa,14.1,-87.216667,Central America,RUS
+185,United States of America,HONDURAS,HND,TRUE,@usembassyhn,HN,Honduras,Tegucigalpa,14.1,-87.216667,Central America,USA
+186,Russia,HUNGARY,HUN,TRUE,@RusEmbHungary,HU,Hungary,Budapest,47.5,19.083333,Europe,RUS
+187,United States of America,HUNGARY,HUN,Consolate,,HU,Hungary,Budapest,47.5,19.083333,Europe,USA
+188,Russia,ICELAND,ISL,TRUE,@RusEmb_Iceland,IS,Iceland,Reykjavik,64.15,-21.95,Europe,RUS
+189,United States of America,ICELAND,ISL,TRUE,@usembreykjavik,IS,Iceland,Reykjavik,64.15,-21.95,Europe,USA
+190,Russia,INDIA,IND,TRUE,@RusEmbIndia,IN,India,New Delhi,28.6,77.2,Asia,RUS
+191,United States of America,INDIA,IND,TRUE,@USAndIndia,IN,India,New Delhi,28.6,77.2,Asia,USA
+192,Russia,INDONESIA,IDN,TRUE,@RusEmbJakarta,ID,Indonesia,Jakarta,-6.16666666666667,106.816667,Asia,RUS
+193,United States of America,INDONESIA,IDN,TRUE,@usembassyjkt,ID,Indonesia,Jakarta,-6.16666666666667,106.816667,Asia,USA
+194,Russia,"IRAN, ISLAMIC REPUBLIC OF",IRN,TRUE,@RusEmbIran,IR,Iran,Tehran,35.7,51.416667,Asia,RUS
+195,United States of America,"IRAN, ISLAMIC REPUBLIC OF",IRN,FALSE,,IR,Iran,Tehran,35.7,51.416667,Asia,USA
+196,Russia,IRAQ,IRQ,TRUE,@RusEmbassyIraq,IQ,Iraq,Baghdad,33.3333333333333,44.4,Asia,RUS
+197,United States of America,IRAQ,IRQ,TRUE,@USEmbBaghdad,IQ,Iraq,Baghdad,33.3333333333333,44.4,Asia,USA
+198,Russia,IRELAND,IRL,TRUE,@Rus_Emb_Ireland,IE,Ireland,Dublin,53.3166666666667,-6.233333,Europe,RUS
+199,United States of America,IRELAND,IRL,TRUE,@USEmbassyDublin,IE,Ireland,Dublin,53.3166666666667,-6.233333,Europe,USA
+200,Russia,ISLE OF MAN,IMN,FALSE,,IM,Isle of Man,Douglas,54.15,-4.483333,Europe,RUS
+201,United States of America,ISLE OF MAN,IMN,FALSE,,IM,Isle of Man,Douglas,54.15,-4.483333,Europe,USA
+202,Russia,ISRAEL,ISR,TRUE,@israel_mid_ru,IL,Israel,Jerusalem,31.7666666666667,35.233333,Asia,RUS
+203,United States of America,ISRAEL,ISR,TRUE,@usembassyjlm,IL,Israel,Jerusalem,31.7666666666667,35.233333,Asia,USA
+204,Russia,ITALY,ITA,TRUE,@rusembitaly,IT,Italy,Rome,41.9,12.483333,Europe,RUS
+205,United States of America,ITALY,ITA,TRUE,@AmbasciataUSA,IT,Italy,Rome,41.9,12.483333,Europe,USA
+206,Russia,JAMAICA,JAM,TRUE,@RussiaJamaica,JM,Jamaica,Kingston,18.0,-76.8,North America,RUS
+207,United States of America,JAMAICA,JAM,TRUE,@USEmbassyJA,JM,Jamaica,Kingston,18.0,-76.8,North America,USA
+208,Russia,JAPAN,JPN,TRUE,@RusEmbassyJ,JP,Japan,Tokyo,35.6833333333333,139.75,Asia,RUS
+209,United States of America,JAPAN,JPN,TRUE,@ACSTokyo,JP,Japan,Tokyo,35.6833333333333,139.75,Asia,USA
+210,Russia,JERSEY,JEY,FALSE,,JE,Jersey,Saint Helier,49.1833333333333,-2.1,Europe,RUS
+211,United States of America,JERSEY,JEY,FALSE,,JE,Jersey,Saint Helier,49.1833333333333,-2.1,Europe,USA
+212,Russia,JORDAN,JOR,TRUE,@RusEmbJordan,JO,Jordan,Amman,31.95,35.933333,Asia,RUS
+213,United States of America,JORDAN,JOR,TRUE,@JoEmbassyUS,JO,Jordan,Amman,31.95,35.933333,Asia,USA
+214,Russia,KAZAKHSTAN,KAZ,TRUE,@Rfembkazakhstan,KZ,Kazakhstan,Astana,51.16666666666671,71.416667,Asia,RUS
+215,United States of America,KAZAKHSTAN,KAZ,TRUE,@USembassyKAZ,KZ,Kazakhstan,Astana,51.16666666666671,71.416667,Asia,USA
+216,Russia,KENYA,KEN,TRUE,@russembkenya,KE,Kenya,Nairobi,-1.28333333333333,36.816667,Africa,RUS
+217,United States of America,KENYA,KEN,TRUE,@USEmbassyKenya,KE,Kenya,Nairobi,-1.28333333333333,36.816667,Africa,USA
+218,Russia,KIRIBATI,KIR,Indonesia,,KI,Kiribati,Tarawa,-0.883333333333333,169.533333,Australia,RUS
+219,United States of America,KIRIBATI,KIR,Fiji,,KI,Kiribati,Tarawa,-0.883333333333333,169.533333,Australia,USA
+220,Russia,"KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",PRK,TRUE,@RusEmbDPRK,KP,North Korea,Pyongyang,39.0166666666667,125.75,Asia,RUS
+221,United States of America,"KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",PRK,FALSE,,KP,North Korea,Pyongyang,39.0166666666667,125.75,Asia,USA
+222,Russia,"KOREA, REPUBLIC OF",KOR,TRUE,@RusEmb_Korea,KR,South Korea,Seoul,37.55,126.983333,Asia,RUS
+223,United States of America,"KOREA, REPUBLIC OF",KOR,TRUE,@USEmbassySeoul,KR,South Korea,Seoul,37.55,126.983333,Asia,USA
+224,Russia,KUWAIT,KWT,TRUE,@RusEmbKuw,KW,Kuwait,Kuwait City,29.3666666666667,47.966667,Asia,RUS
+225,United States of America,KUWAIT,KWT,TRUE,@USEmbassyQ8,KW,Kuwait,Kuwait City,29.3666666666667,47.966667,Asia,USA
+226,Russia,KYRGYZSTAN,KGZ,TRUE,,KG,Kyrgyzstan,Bishkek,42.8666666666667,74.6,Asia,RUS
+227,United States of America,KYRGYZSTAN,KGZ,TRUE,@USEmbassyKG,KG,Kyrgyzstan,Bishkek,42.8666666666667,74.6,Asia,USA
+228,Russia,LAO PEOPLE'S DEMOCRATIC REPUBLIC,LAO,TRUE,,LA,Laos,Vientiane,17.9666666666667,102.6,Asia,RUS
+229,United States of America,LAO PEOPLE'S DEMOCRATIC REPUBLIC,LAO,TRUE,@usembassyvte,LA,Laos,Vientiane,17.9666666666667,102.6,Asia,USA
+230,Russia,LATVIA,LVA,TRUE,@LV_RUSEMBAS,LV,Latvia,Riga,56.95,24.1,Europe,RUS
+231,United States of America,LATVIA,LVA,TRUE,@USEmbassyRiga,LV,Latvia,Riga,56.95,24.1,Europe,USA
+232,Russia,LEBANON,LBN,TRUE,@rusembleb,LB,Lebanon,Beirut,33.8666666666667,35.5,Asia,RUS
+233,United States of America,LEBANON,LBN,TRUE,@usembassybeirut,LB,Lebanon,Beirut,33.8666666666667,35.5,Asia,USA
+234,Russia,LESOTHO,LSO,South Africa,,LS,Lesotho,Maseru,-29.3166666666667,27.483333,Africa,RUS
+235,United States of America,LESOTHO,LSO,TRUE,@USEmbassyMaseru,LS,Lesotho,Maseru,-29.3166666666667,27.483333,Africa,USA
+236,Russia,LIBERIA,LBR,Ghana,,LR,Liberia,Monrovia,6.3,-10.8,Africa,RUS
+237,United States of America,LIBERIA,LBR,TRUE,@embassymonrovia,LR,Liberia,Monrovia,6.3,-10.8,Africa,USA
+238,Russia,LIBYA,LBY,TRUE,,LY,Libya,Tripoli,32.8833333333333,13.166667,Africa,RUS
+239,United States of America,LIBYA,LBY,TRUE,@USAEmbassyLibya,LY,Libya,Tripoli,32.8833333333333,13.166667,Africa,USA
+240,Russia,LIECHTENSTEIN,LIE,Switzerland,,LI,Liechtenstein,Vaduz,47.1333333333333,9.516667,Europe,RUS
+241,United States of America,LIECHTENSTEIN,LIE,FALSE,,LI,Liechtenstein,Vaduz,47.1333333333333,9.516667,Europe,USA
+242,Russia,LITHUANIA,LTU,TRUE,@RusEmb_LT,LT,Lithuania,Vilnius,54.6833333333333,25.316667,Europe,RUS
+243,United States of America,LITHUANIA,LTU,TRUE,@USEmbVilnius,LT,Lithuania,Vilnius,54.6833333333333,25.316667,Europe,USA
+244,Russia,LUXEMBOURG,LUX,TRUE,@RusEmbLux,LU,Luxembourg,Luxembourg,49.6,6.116667,Europe,RUS
+245,United States of America,LUXEMBOURG,LUX,TRUE,@USEmbLuxembourg,LU,Luxembourg,Luxembourg,49.6,6.116667,Europe,USA
+246,Russia,MADAGASCAR,MDG,TRUE,@Amb_de_Russie,MG,Madagascar,Antananarivo,-18.9166666666667,47.516667,Africa,RUS
+247,United States of America,MADAGASCAR,MDG,TRUE,@USMadagascar,MG,Madagascar,Antananarivo,-18.9166666666667,47.516667,Africa,USA
+248,Russia,MALAWI,MWI,Zimbabwe,,MW,Malawi,Lilongwe,-13.9666666666667,33.783333,Africa,RUS
+249,United States of America,MALAWI,MWI,TRUE,@USEmbassyLLW,MW,Malawi,Lilongwe,-13.9666666666667,33.783333,Africa,USA
+250,Russia,MALAYSIA,MYS,TRUE,@RusEmb_Malaysia,MY,Malaysia,Kuala Lumpur,3.16666666666667,101.7,Asia,RUS
+251,United States of America,MALAYSIA,MYS,TRUE,@usembassykl,MY,Malaysia,Kuala Lumpur,3.16666666666667,101.7,Asia,USA
+252,Russia,MALDIVES,MDV,Sri Lanka,,MV,Maldives,Male,4.16666666666667,73.5,Asia,RUS
+253,United States of America,MALDIVES,MDV,Sri Lanka,,MV,Maldives,Male,4.16666666666667,73.5,Asia,USA
+254,Russia,MALI,MLI,TRUE,,ML,Mali,Bamako,12.65,-8.0,Africa,RUS
+255,United States of America,MALI,MLI,TRUE,@USEmbassyMali,ML,Mali,Bamako,12.65,-8.0,Africa,USA
+256,Russia,MALTA,MLT,TRUE,@RusEmbMalta,MT,Malta,Valletta,35.8833333333333,14.5,Europe,RUS
+257,United States of America,MALTA,MLT,TRUE,@usembmalta,MT,Malta,Valletta,35.8833333333333,14.5,Europe,USA
+258,Russia,MARSHALL ISLANDS,MHL,Philippines,,MH,Marshall Islands,Majuro,7.1,171.383333,Australia,RUS
+259,United States of America,MARSHALL ISLANDS,MHL,,,MH,Marshall Islands,Majuro,7.1,171.383333,Australia,USA
+260,Russia,MAURITANIA,MRT,TRUE,,MR,Mauritania,Nouakchott,18.0666666666667,-15.966667,Africa,RUS
+261,United States of America,MAURITANIA,MRT,TRUE,@usembnouakchott,MR,Mauritania,Nouakchott,18.0666666666667,-15.966667,Africa,USA
+262,Russia,MAURITIUS,MUS,TRUE,@RusEmbMauritius,MU,Mauritius,Port Louis,-20.15,57.483333,Africa,RUS
+263,United States of America,MAURITIUS,MUS,TRUE,@USEmbassyMoris,MU,Mauritius,Port Louis,-20.15,57.483333,Africa,USA
+264,Russia,MEXICO,MEX,TRUE,@EmbRusiaMexico,MX,Mexico,Mexico City,19.4333333333333,-99.133333,Central America,RUS
+265,United States of America,MEXICO,MEX,TRUE,,MX,Mexico,Mexico City,19.4333333333333,-99.133333,Central America,USA
+266,Russia,"MICRONESIA, FEDERATED STATES OF",FSM,Philippines,,FM,Federated States of Micronesia,Palikir,6.91666666666667,158.15,Australia,RUS
+267,United States of America,"MICRONESIA, FEDERATED STATES OF",FSM,TRUE,@USEmbassyFSM,FM,Federated States of Micronesia,Palikir,6.91666666666667,158.15,Australia,USA
+268,Russia,"MOLDOVA, REPUBLIC OF",MDA,TRUE,,MD,Moldova,Chisinau,47.0,28.85,Europe,RUS
+269,United States of America,"MOLDOVA, REPUBLIC OF",MDA,TRUE,@USembMoldova,MD,Moldova,Chisinau,47.0,28.85,Europe,USA
+270,Russia,MONACO,MCO,France,,MC,Monaco,Monaco,43.7333333333333,7.416667,Europe,RUS
+271,United States of America,MONACO,MCO,FALSE,,MC,Monaco,Monaco,43.7333333333333,7.416667,Europe,USA
+272,Russia,MONGOLIA,MNG,TRUE,@RusEmbMNG,MN,Mongolia,Ulaanbaatar,47.91666666666671,106.916667,Asia,RUS
+273,United States of America,MONGOLIA,MNG,TRUE,@usembmongolia,MN,Mongolia,Ulaanbaatar,47.91666666666671,106.916667,Asia,USA
+274,Russia,MONTENEGRO,MNE,TRUE,@AmbRusME,ME,Montenegro,Podgorica,42.4333333333333,19.266667,Europe,RUS
+275,United States of America,MONTENEGRO,MNE,TRUE,@USEmbassyMNE,ME,Montenegro,Podgorica,42.4333333333333,19.266667,Europe,USA
+276,Russia,MONTSERRAT,MSR,FALSE,,MS,Montserrat,Plymouth,16.7,-62.216667,North America,RUS
+277,United States of America,MONTSERRAT,MSR,Barbados,,MS,Montserrat,Plymouth,16.7,-62.216667,North America,USA
+278,Russia,MOROCCO,MAR,TRUE,@U_MAROC,MA,Morocco,Rabat,34.0166666666667,-6.816667,Africa,RUS
+279,United States of America,MOROCCO,MAR,TRUE,@USEmbMorocco,MA,Morocco,Rabat,34.0166666666667,-6.816667,Africa,USA
+280,Russia,MOZAMBIQUE,MOZ,TRUE,@EmbRusMoz,MZ,Mozambique,Maputo,-25.95,32.583333,Africa,RUS
+281,United States of America,MOZAMBIQUE,MOZ,TRUE,@USEmbassyMaputo,MZ,Mozambique,Maputo,-25.95,32.583333,Africa,USA
+282,Russia,MYANMAR,MMR,TRUE,,MM,Myanmar,Rangoon,16.8,96.15,Asia,RUS
+283,United States of America,MYANMAR,MMR,TRUE,@USEmbassyBurma,MM,Myanmar,Rangoon,16.8,96.15,Asia,USA
+284,Russia,NAURU,NRU,Australia,,NR,Nauru,Yaren,-0.5477,166.920867,Australia,RUS
+285,United States of America,NAURU,NRU,Fiji,,NR,Nauru,Yaren,-0.5477,166.920867,Australia,USA
+286,Russia,NEPAL,NPL,TRUE,@embassy_russia,NP,Nepal,Kathmandu,27.7166666666667,85.316667,Asia,RUS
+287,United States of America,NEPAL,NPL,TRUE,@USEmbassyNepal,NP,Nepal,Kathmandu,27.7166666666667,85.316667,Asia,USA
+288,Russia,NETHERLANDS,NLD,TRUE,@rusembassynl,NL,Netherlands,Amsterdam,52.35,4.916667,Europe,RUS
+289,United States of America,NETHERLANDS,NLD,TRUE,@usembthehague,NL,Netherlands,Amsterdam,52.35,4.916667,Europe,USA
+290,Russia,NEW CALEDONIA,NCL,FALSE,,NC,New Caledonia,Noumea,-22.2666666666667,166.45,Australia,RUS
+291,United States of America,NEW CALEDONIA,NCL,FALSE,,NC,New Caledonia,Noumea,-22.2666666666667,166.45,Australia,USA
+292,Russia,NEW ZEALAND,NZL,TRUE,@rusembnz,NZ,New Zealand,Wellington,-41.3,174.783333,Australia,RUS
+293,United States of America,NEW ZEALAND,NZL,TRUE,@usembassynz,NZ,New Zealand,Wellington,-41.3,174.783333,Australia,USA
+294,Russia,NICARAGUA,NIC,TRUE,@EmbRusNicaragua,NI,Nicaragua,Managua,12.1333333333333,-86.25,Central America,RUS
+295,United States of America,NICARAGUA,NIC,TRUE,@USEmbNicaragua,NI,Nicaragua,Managua,12.1333333333333,-86.25,Central America,USA
+296,Russia,NIGER,NER,Mali,,NE,Niger,Niamey,13.5166666666667,2.116667,Africa,RUS
+297,United States of America,NIGER,NER,TRUE,@USEmbassyNiamey,NE,Niger,Niamey,13.5166666666667,2.116667,Africa,USA
+298,Russia,NIGERIA,NGA,TRUE,@RusEmbNigeria,NG,Nigeria,Abuja,9.08333333333333,7.533333,Africa,RUS
+299,United States of America,NIGERIA,NGA,TRUE,@USinNigeria,NG,Nigeria,Abuja,9.08333333333333,7.533333,Africa,USA
+300,Russia,NIUE,NIU,FALSE,,NU,Niue,Alofi,-19.0166666666667,-169.916667,Australia,RUS
+301,United States of America,NIUE,NIU,FALSE,,NU,Niue,Alofi,-19.0166666666667,-169.916667,Australia,USA
+302,Russia,NORFOLK ISLAND,NFK,FALSE,,NF,Norfolk Island,Kingston,-29.05,167.966667,Australia,RUS
+303,United States of America,NORFOLK ISLAND,NFK,FALSE,,NF,Norfolk Island,Kingston,-29.05,167.966667,Australia,USA
+304,Russia,NORTH MACEDONIA,MKD,TRUE,@Russian_Emb_MKD,MK,Macedonia,Skopje,42.0,21.433333,Europe,RUS
+305,United States of America,NORTH MACEDONIA,MKD,TRUE,@USEmbassySkopje,MK,Macedonia,Skopje,42.0,21.433333,Europe,USA
+306,Russia,NORTHERN MARIANA ISLANDS,MNP,FALSE,,MP,Northern Mariana Islands,Saipan,15.2,145.75,Australia,RUS
+307,United States of America,NORTHERN MARIANA ISLANDS,MNP,TRUE,,MP,Northern Mariana Islands,Saipan,15.2,145.75,Australia,USA
+308,Russia,NORWAY,NOR,TRUE,@RusEmbNo,NO,Norway,Oslo,59.91666666666671,10.75,Europe,RUS
+309,United States of America,NORWAY,NOR,TRUE,@usembassyoslo,NO,Norway,Oslo,59.91666666666671,10.75,Europe,USA
+310,Russia,OMAN,OMN,TRUE,@RussianEmbOman,OM,Oman,Muscat,23.6166666666667,58.583333,Asia,RUS
+311,United States of America,OMAN,OMN,FALSE,@USEmbMuscat,OM,Oman,Muscat,23.6166666666667,58.583333,Asia,USA
+312,Russia,PAKISTAN,PAK,TRUE,@RusEmbPakistan,PK,Pakistan,Islamabad,33.6833333333333,73.05,Asia,RUS
+313,United States of America,PAKISTAN,PAK,TRUE,@usembislamabad,PK,Pakistan,Islamabad,33.6833333333333,73.05,Asia,USA
+314,Russia,PALAU,PLW,Philippines,,PW,Palau,Melekeok,7.48333333333333,134.633333,Australia,RUS
+315,United States of America,PALAU,PLW,TRUE,,PW,Palau,Melekeok,7.48333333333333,134.633333,Australia,USA
+316,Russia,"PALESTINE, STATE OF",PSE,TRUE,@RusRepRamallah,PS,Palestine,Jerusalem,31.7666666666667,35.233333,Asia,RUS
+317,United States of America,"PALESTINE, STATE OF",PSE,FALSE,@USPalAffairs,PS,Palestine,Jerusalem,31.7666666666667,35.233333,Asia,USA
+318,Russia,PANAMA,PAN,TRUE,@EmbRusPan,PA,Panama,Panama City,8.96666666666667,-79.533333,Central America,RUS
+319,United States of America,PANAMA,PAN,TRUE,@USEmbPAN,PA,Panama,Panama City,8.96666666666667,-79.533333,Central America,USA
+320,Russia,PAPUA NEW GUINEA,PNG,Indonesia,,PG,Papua New Guinea,Port Moresby,-9.45,147.183333,Australia,RUS
+321,United States of America,PAPUA NEW GUINEA,PNG,TRUE,@USEmbassyPOM,PG,Papua New Guinea,Port Moresby,-9.45,147.183333,Australia,USA
+322,Russia,PARAGUAY,PRY,TRUE,@embajada_rusia,PY,Paraguay,Asuncion,-25.2666666666667,-57.666667,South America,RUS
+323,United States of America,PARAGUAY,PRY,TRUE,@laembajada,PY,Paraguay,Asuncion,-25.2666666666667,-57.666667,South America,USA
+324,Russia,PERU,PER,TRUE,@RusEmbPeru,PE,Peru,Lima,-12.05,-77.05,South America,RUS
+325,United States of America,PERU,PER,TRUE,@USEMBASSYPERU,PE,Peru,Lima,-12.05,-77.05,South America,USA
+326,Russia,PHILIPPINES,PHL,TRUE,@RusEmbManila,PH,Philippines,Manila,14.6,120.966667,Asia,RUS
+327,United States of America,PHILIPPINES,PHL,TRUE,@USEmbassyPH,PH,Philippines,Manila,14.6,120.966667,Asia,USA
+328,Russia,PITCAIRN,PCN,FALSE,,PN,Pitcairn Islands,Adamstown,-25.0666666666667,-130.083333,Australia,RUS
+329,United States of America,PITCAIRN,PCN,FALSE,,PN,Pitcairn Islands,Adamstown,-25.0666666666667,-130.083333,Australia,USA
+330,Russia,POLAND,POL,TRUE,@rusemb_pl,PL,Poland,Warsaw,52.25,21.0,Europe,RUS
+331,United States of America,POLAND,POL,TRUE,@USEmbassyWarsaw,PL,Poland,Warsaw,52.25,21.0,Europe,USA
+332,Russia,PORTUGAL,PRT,TRUE,@EmbaixadaRusPt,PT,Portugal,Lisbon,38.7166666666667,-9.133333,Europe,RUS
+333,United States of America,PORTUGAL,PRT,TRUE,@USEmbPortugal,PT,Portugal,Lisbon,38.7166666666667,-9.133333,Europe,USA
+334,Russia,PUERTO RICO,PRI,FALSE,,PR,Puerto Rico,San Juan,18.4666666666667,-66.116667,North America,RUS
+335,United States of America,PUERTO RICO,PRI,FALSE,,PR,Puerto Rico,San Juan,18.4666666666667,-66.116667,North America,USA
+336,Russia,QATAR,QAT,TRUE,@russiaqatar,QA,Qatar,Doha,25.2833333333333,51.533333,Asia,RUS
+337,United States of America,QATAR,QAT,TRUE,@USEmbassyDoha,QA,Qatar,Doha,25.2833333333333,51.533333,Asia,USA
+338,Russia,ROMANIA,ROU,TRUE,@AmbRusRomania,RO,Romania,Bucharest,44.4333333333333,26.1,Europe,RUS
+339,United States of America,ROMANIA,ROU,TRUE,@AmbasadaSUA,RO,Romania,Bucharest,44.4333333333333,26.1,Europe,USA
+340,Russia,RUSSIAN FEDERATION,RUS,SELF,@mfa_russia,RU,Russia,Moscow,55.75,37.6,Europe,RUS
+341,United States of America,RUSSIAN FEDERATION,RUS,TRUE,@USEmbRu,RU,Russia,Moscow,55.75,37.6,Europe,USA
+342,Russia,RWANDA,RWA,TRUE,@RusEmb_Rwanda,RW,Rwanda,Kigali,-1.95,30.05,Africa,RUS
+343,United States of America,RWANDA,RWA,TRUE,@USAmbRwanda,RW,Rwanda,Kigali,-1.95,30.05,Africa,USA
+344,Russia,SAINT BARTHÉLEMY,BLM,FALSE,,BL,Saint Barthelemy,Gustavia,17.8833333333333,-62.85,North America,RUS
+345,United States of America,SAINT BARTHÉLEMY,BLM,FALSE,,BL,Saint Barthelemy,Gustavia,17.8833333333333,-62.85,North America,USA
+346,Russia,"SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",SHN,FALSE,,SH,Saint Helena,Jamestown,-15.9333333333333,-5.716667,Africa,RUS
+347,United States of America,"SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",SHN,FALSE,,SH,Saint Helena,Jamestown,-15.9333333333333,-5.716667,Africa,USA
+348,Russia,SAINT KITTS AND NEVIS,KNA,Jamaica,,KN,Saint Kitts and Nevis,Basseterre,17.3,-62.716667,North America,RUS
+349,United States of America,SAINT KITTS AND NEVIS,KNA,Barbados,,KN,Saint Kitts and Nevis,Basseterre,17.3,-62.716667,North America,USA
+350,Russia,SAINT LUCIA,LCA,Jamaica,,LC,Saint Lucia,Castries,14.0,-61.0,North America,RUS
+351,United States of America,SAINT LUCIA,LCA,Barbados,,LC,Saint Lucia,Castries,14.0,-61.0,North America,USA
+352,Russia,SAINT MARTIN (FRENCH PART),MAF,FALSE,,MF,Saint Martin,Marigot,18.0731,-63.0822,North America,RUS
+353,United States of America,SAINT MARTIN (FRENCH PART),MAF,FALSE,,MF,Saint Martin,Marigot,18.0731,-63.0822,North America,USA
+354,Russia,SAINT PIERRE AND MIQUELON,SPM,FALSE,,PM,Saint Pierre and Miquelon,Saint-Pierre,46.7666666666667,-56.183333,Central America,RUS
+355,United States of America,SAINT PIERRE AND MIQUELON,SPM,FALSE,,PM,Saint Pierre and Miquelon,Saint-Pierre,46.7666666666667,-56.183333,Central America,USA
+356,Russia,SAINT VINCENT AND THE GRENADINES,VCT,Guyana,,VC,Saint Vincent and the Grenadines,Kingstown,13.1333333333333,-61.216667,Central America,RUS
+357,United States of America,SAINT VINCENT AND THE GRENADINES,VCT,Barbados,,VC,Saint Vincent and the Grenadines,Kingstown,13.1333333333333,-61.216667,Central America,USA
+358,Russia,SAMOA,WSM,New Zealand,,WS,Samoa,Apia,-13.8166666666667,-171.766667,Australia,RUS
+359,United States of America,SAMOA,WSM,TRUE,@usembassysamoa,WS,Samoa,Apia,-13.8166666666667,-171.766667,Australia,USA
+360,Russia,SAN MARINO,SMR,Italy,,SM,San Marino,San Marino,43.9333333333333,12.416667,Europe,RUS
+361,United States of America,SAN MARINO,SMR,FALSE,,SM,San Marino,San Marino,43.9333333333333,12.416667,Europe,USA
+362,Russia,SAO TOME AND PRINCIPE,STP,Angola,,ST,Sao Tome and Principe,Sao Tome,0.333333333333333,6.733333,Africa,RUS
+363,United States of America,SAO TOME AND PRINCIPE,STP,FALSE,,ST,Sao Tome and Principe,Sao Tome,0.333333333333333,6.733333,Africa,USA
+364,Russia,SAUDI ARABIA,SAU,TRUE,@RusEmb_KSA,SA,Saudi Arabia,Riyadh,24.65,46.7,Asia,RUS
+365,United States of America,SAUDI ARABIA,SAU,TRUE,@USAinKSA,SA,Saudi Arabia,Riyadh,24.65,46.7,Asia,USA
+366,Russia,SENEGAL,SEN,TRUE,@AmbRusSenegal,SN,Senegal,Dakar,14.7333333333333,-17.633333,Africa,RUS
+367,United States of America,SENEGAL,SEN,TRUE,@usembassydakar,SN,Senegal,Dakar,14.7333333333333,-17.633333,Africa,USA
+368,Russia,SERBIA,SRB,TRUE,@AmbasadaRusije,RS,Serbia,Belgrade,44.83333333333329,20.5,Europe,RUS
+369,United States of America,SERBIA,SRB,TRUE,@USEmbassySerbia,RS,Serbia,Belgrade,44.83333333333329,20.5,Europe,USA
+370,Russia,SEYCHELLES,SYC,TRUE,@RusEmbSey,SC,Seychelles,Victoria,-4.61666666666667,55.45,Africa,RUS
+371,United States of America,SEYCHELLES,SYC,Consulate,,SC,Seychelles,Victoria,-4.61666666666667,55.45,Africa,USA
+372,Russia,SIERRA LEONE,SLE,Guinea,,SL,Sierra Leone,Freetown,8.48333333333333,-13.233333,Africa,RUS
+373,United States of America,SIERRA LEONE,SLE,TRUE,@USEmbFreetown,SL,Sierra Leone,Freetown,8.48333333333333,-13.233333,Africa,USA
+374,Russia,SINGAPORE,SGP,TRUE,@RusEmbSG,SG,Singapore,Singapore,1.28333333333333,103.85,Asia,RUS
+375,United States of America,SINGAPORE,SGP,TRUE,@RedWhiteBlueDot,SG,Singapore,Singapore,1.28333333333333,103.85,Asia,USA
+376,Russia,SINT MAARTEN (DUTCH PART),SXM,FALSE,,SX,Sint Maarten,Philipsburg,18.0166666666667,-63.033333,North America,RUS
+377,United States of America,SINT MAARTEN (DUTCH PART),SXM,FALSE,,SX,Sint Maarten,Philipsburg,18.0166666666667,-63.033333,North America,USA
+378,Russia,SLOVAKIA,SVK,TRUE,@RusEmbSK,SK,Slovakia,Bratislava,48.15,17.116667,Europe,RUS
+379,United States of America,SLOVAKIA,SVK,TRUE,@USEmbassySK,SK,Slovakia,Bratislava,48.15,17.116667,Europe,USA
+380,Russia,SLOVENIA,SVN,TRUE,@AmbrusSlo,SI,Slovenia,Ljubljana,46.05,14.516667,Europe,RUS
+381,United States of America,SLOVENIA,SVN,TRUE,@USEmbassySLO,SI,Slovenia,Ljubljana,46.05,14.516667,Europe,USA
+382,Russia,SOLOMON ISLANDS,SLB,FALSE,,SB,Solomon Islands,Honiara,-9.43333333333333,159.95,Australia,RUS
+383,United States of America,SOLOMON ISLANDS,SLB,Consulate,,SB,Solomon Islands,Honiara,-9.43333333333333,159.95,Australia,USA
+384,Russia,SOMALIA,SOM,Djibouti,,SO,Somalia,Mogadishu,2.06666666666667,45.333333,Africa,RUS
+385,United States of America,SOMALIA,SOM,TRUE,@US2SOMALIA,SO,Somalia,Mogadishu,2.06666666666667,45.333333,Africa,USA
+386,Russia,SOUTH AFRICA,ZAF,TRUE,@EmbassyofRussia,ZA,South Africa,Pretoria,-25.7,28.216667,Africa,RUS
+387,United States of America,SOUTH AFRICA,ZAF,TRUE,@USEmbassySA,ZA,South Africa,Pretoria,-25.7,28.216667,Africa,USA
+388,Russia,SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS,SGS,FALSE,,GS,South Georgia and South Sandwich Islands,King Edward Point,-54.283333,-36.5,Antarctica,RUS
+389,United States of America,SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS,SGS,FALSE,,GS,South Georgia and South Sandwich Islands,King Edward Point,-54.283333,-36.5,Antarctica,USA
+390,Russia,SOUTH SUDAN,SSD,Uganda,,SS,South Sudan,Juba,4.85,31.616667,Africa,RUS
+391,United States of America,SOUTH SUDAN,SSD,TRUE,@USMissionJuba,SS,South Sudan,Juba,4.85,31.616667,Africa,USA
+392,Russia,SPAIN,ESP,TRUE,@EmbajadaRusaES,ES,Spain,Madrid,40.4,-3.683333,Europe,RUS
+393,United States of America,SPAIN,ESP,TRUE,@USembassyMadrid,ES,Spain,Madrid,40.4,-3.683333,Europe,USA
+394,Russia,SRI LANKA,LKA,TRUE,@RusEmbSriLanka,LK,Sri Lanka,Colombo,6.91666666666667,79.833333,Asia,RUS
+395,United States of America,SRI LANKA,LKA,TRUE,@USEmbSL,LK,Sri Lanka,Colombo,6.91666666666667,79.833333,Asia,USA
+396,Russia,SUDAN,SDN,TRUE,@Rus_Emb_Sudan,SD,Sudan,Khartoum,15.6,32.533333,Africa,RUS
+397,United States of America,SUDAN,SDN,TRUE,@USEmbassyKRT,SD,Sudan,Khartoum,15.6,32.533333,Africa,USA
+398,Russia,SURINAME,SUR,Brazil,,SR,Suriname,Paramaribo,5.83333333333333,-55.166667,South America,RUS
+399,United States of America,SURINAME,SUR,TRUE,@USEmbassyParbo,SR,Suriname,Paramaribo,5.83333333333333,-55.166667,South America,USA
+400,Russia,SVALBARD AND JAN MAYEN,SJM,FALSE,,SJ,Svalbard,Longyearbyen,78.2166666666667,15.633333,Europe,RUS
+401,United States of America,SVALBARD AND JAN MAYEN,SJM,FALSE,,SJ,Svalbard,Longyearbyen,78.2166666666667,15.633333,Europe,USA
+402,Russia,SWEDEN,SWE,TRUE,@RusEmbSwe,SE,Sweden,Stockholm,59.33333333333329,18.05,Europe,RUS
+403,United States of America,SWEDEN,SWE,TRUE,@usembsweden,SE,Sweden,Stockholm,59.33333333333329,18.05,Europe,USA
+404,Russia,SWITZERLAND,CHE,TRUE,@RusEmbSwiss,CH,Switzerland,Bern,46.91666666666671,7.466667,Europe,RUS
+405,United States of America,SWITZERLAND,CHE,TRUE,@USEmbassyBern,CH,Switzerland,Bern,46.91666666666671,7.466667,Europe,USA
+406,Russia,SYRIAN ARAB REPUBLIC,SYR,TRUE,@RusEmbSyria,SY,Syria,Damascus,33.5,36.3,Asia,RUS
+407,United States of America,SYRIAN ARAB REPUBLIC,SYR,Suspended,@USEmbassySyria,SY,Syria,Damascus,33.5,36.3,Asia,USA
+408,Russia,"TAIWAN, PROVINCE OF CHINA",TWN,FALSE,,TW,Taiwan,Taipei,25.0333333333333,121.516667,Asia,RUS
+409,United States of America,"TAIWAN, PROVINCE OF CHINA",TWN,de facto,,TW,Taiwan,Taipei,25.0333333333333,121.516667,Asia,USA
+410,Russia,TAJIKISTAN,TJK,TRUE,,TJ,Tajikistan,Dushanbe,38.55,68.766667,Asia,RUS
+411,United States of America,TAJIKISTAN,TJK,TRUE,@USEmbDushanbe,TJ,Tajikistan,Dushanbe,38.55,68.766667,Asia,USA
+412,Russia,"TANZANIA, UNITED REPUBLIC OF",TZA,TRUE,@rusembtz,TZ,Tanzania,Dar es Salaam,-6.8,39.283333,Africa,RUS
+413,United States of America,"TANZANIA, UNITED REPUBLIC OF",TZA,TRUE,@usembassytz,TZ,Tanzania,Dar es Salaam,-6.8,39.283333,Africa,USA
+414,Russia,THAILAND,THA,TRUE,@RusEmbBangkok,TH,Thailand,Bangkok,13.75,100.516667,Asia,RUS
+415,United States of America,THAILAND,THA,TRUE,@USEmbassyBKK,TH,Thailand,Bangkok,13.75,100.516667,Asia,USA
+416,Russia,TIMOR-LESTE,TLS,Indonesia,,TL,Timor-Leste,Dili,-8.58333333333333,125.6,Asia,RUS
+417,United States of America,TIMOR-LESTE,TLS,TRUE,@USEmbassyDili,TL,Timor-Leste,Dili,-8.58333333333333,125.6,Asia,USA
+418,Russia,TOGO,TGO,Benin,,TG,Togo,Lome,6.11666666666667,1.216667,Africa,RUS
+419,United States of America,TOGO,TGO,TRUE,@USEmbassyLome,TG,Togo,Lome,6.11666666666667,1.216667,Africa,USA
+420,Russia,TOKELAU,TKL,FALSE,,TK,Tokelau,Atafu,-9.166667,-171.833333,Australia,RUS
+421,United States of America,TOKELAU,TKL,FALSE,,TK,Tokelau,Atafu,-9.166667,-171.833333,Australia,USA
+422,Russia,TONGA,TON,New Zealand,,TO,Tonga,Nuku'alofa,-21.1333333333333,-175.2,Australia,RUS
+423,United States of America,TONGA,TON,Fiji,,TO,Tonga,Nuku'alofa,-21.1333333333333,-175.2,Australia,USA
+424,Russia,TRINIDAD AND TOBAGO,TTO,Guyana,,TT,Trinidad and Tobago,Port of Spain,10.65,-61.516667,North America,RUS
+425,United States of America,TRINIDAD AND TOBAGO,TTO,TRUE,@USinTT,TT,Trinidad and Tobago,Port of Spain,10.65,-61.516667,North America,USA
+426,Russia,TUNISIA,TUN,TRUE,@AmbRusTun,TN,Tunisia,Tunis,36.8,10.183333,Africa,RUS
+427,United States of America,TUNISIA,TUN,TRUE,@usembassytunis,TN,Tunisia,Tunis,36.8,10.183333,Africa,USA
+428,Russia,TURKEY,TUR,TRUE,@RusEmbTurkey,TR,Turkey,Ankara,39.9333333333333,32.866667,Europe,RUS
+429,United States of America,TURKEY,TUR,TRUE,@USEmbassyTurkey,TR,Turkey,Ankara,39.9333333333333,32.866667,Europe,USA
+430,Russia,TURKMENISTAN,TKM,TRUE,@rusemb_tm,TM,Turkmenistan,Ashgabat,37.95,58.383333,Asia,RUS
+431,United States of America,TURKMENISTAN,TKM,TRUE,,TM,Turkmenistan,Ashgabat,37.95,58.383333,Asia,USA
+432,Russia,TURKS AND CAICOS ISLANDS,TCA,FALSE,,TC,Turks and Caicos Islands,Grand Turk,21.4666666666667,-71.133333,North America,RUS
+433,United States of America,TURKS AND CAICOS ISLANDS,TCA,FALSE,,TC,Turks and Caicos Islands,Grand Turk,21.4666666666667,-71.133333,North America,USA
+434,Russia,TUVALU,TUV,Australia,,TV,Tuvalu,Funafuti,-8.51666666666667,179.216667,Australia,RUS
+435,United States of America,TUVALU,TUV,Fiji,,TV,Tuvalu,Funafuti,-8.51666666666667,179.216667,Australia,USA
+436,Russia,UGANDA,UGA,TRUE,@RusEmbUganda,UG,Uganda,Kampala,0.316666666666667,32.55,Africa,RUS
+437,United States of America,UGANDA,UGA,TRUE,@usmissionuganda,UG,Uganda,Kampala,0.316666666666667,32.55,Africa,USA
+438,Russia,UKRAINE,UKR,TRUE,@RusembUkraine,UA,Ukraine,Kyiv,50.4333333333333,30.516667,Europe,RUS
+439,United States of America,UKRAINE,UKR,TRUE,@USEmbassyKyiv,UA,Ukraine,Kyiv,50.4333333333333,30.516667,Europe,USA
+440,Russia,UNITED ARAB EMIRATES,ARE,TRUE,@RusEmbassyUAE,AE,United Arab Emirates,Abu Dhabi,24.4666666666667,54.366667,Asia,RUS
+441,United States of America,UNITED ARAB EMIRATES,ARE,TRUE,@USAinUAE,AE,United Arab Emirates,Abu Dhabi,24.4666666666667,54.366667,Asia,USA
+442,Russia,UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND,GBR,TRUE,@RussianEmbassy,GB,United Kingdom,London,51.5,-0.083333,Europe,RUS
+443,United States of America,UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND,GBR,TRUE,@USAinUK,GB,United Kingdom,London,51.5,-0.083333,Europe,USA
+444,Russia,UNITED STATES OF AMERICA,USA,TRUE,@RusEmbUSA,US,United States,Washington,38.883333,-77.0,Central America,RUS
+445,United States of America,UNITED STATES OF AMERICA,USA,SELF,@StateDept,US,United States,Washington,38.883333,-77.0,Central America,USA
+446,Russia,URUGUAY,URY,TRUE,@EmbRusUruguay,UY,Uruguay,Montevideo,-34.85,-56.166667,South America,RUS
+447,United States of America,URUGUAY,URY,TRUE,@usembassyMVD,UY,Uruguay,Montevideo,-34.85,-56.166667,South America,USA
+448,Russia,UZBEKISTAN,UZB,TRUE,@russiauz,UZ,Uzbekistan,Tashkent,41.3166666666667,69.25,Asia,RUS
+449,United States of America,UZBEKISTAN,UZB,TRUE,@usembtashkent,UZ,Uzbekistan,Tashkent,41.3166666666667,69.25,Asia,USA
+450,Russia,VANUATU,VUT,Australia,,VU,Vanuatu,Port-Vila,-17.7333333333333,168.316667,Australia,RUS
+451,United States of America,VANUATU,VUT,FALSE,,VU,Vanuatu,Port-Vila,-17.7333333333333,168.316667,Australia,USA
+452,Russia,"VENEZUELA, BOLIVARIAN REPUBLIC OF",VEN,TRUE,@EmbajadaRusaVen,VE,Venezuela,Caracas,10.4833333333333,-66.866667,South America,RUS
+453,United States of America,"VENEZUELA, BOLIVARIAN REPUBLIC OF",VEN,TRUE,,VE,Venezuela,Caracas,10.4833333333333,-66.866667,South America,USA
+454,Russia,VIET NAM,VNM,TRUE,@RusEmbVietnam,VN,Vietnam,Hanoi,21.0333333333333,105.85,Asia,RUS
+455,United States of America,VIET NAM,VNM,TRUE,,VN,Vietnam,Hanoi,21.0333333333333,105.85,Asia,USA
+456,Russia,"VIRGIN ISLANDS, BRITISH",VGB,FALSE,,VG,British Virgin Islands,Road Town,18.4166666666667,-64.616667,North America,RUS
+457,United States of America,"VIRGIN ISLANDS, BRITISH",VGB,FALSE,,VG,British Virgin Islands,Road Town,18.4166666666667,-64.616667,North America,USA
+458,Russia,"VIRGIN ISLANDS, U.S.",VIR,FALSE,,VI,US Virgin Islands,Charlotte Amalie,18.35,-64.933333,North America,RUS
+459,United States of America,"VIRGIN ISLANDS, U.S.",VIR,FALSE,,VI,US Virgin Islands,Charlotte Amalie,18.35,-64.933333,North America,USA
+460,Russia,WALLIS AND FUTUNA,WLF,FALSE,,WF,Wallis and Futuna,Mata-Utu,-13.95,-171.933333,Australia,RUS
+461,United States of America,WALLIS AND FUTUNA,WLF,FALSE,,WF,Wallis and Futuna,Mata-Utu,-13.95,-171.933333,Australia,USA
+462,Russia,WESTERN SAHARA,ESH,FALSE,,EH,Western Sahara,El-Aaiún,27.153611,-13.203333,Africa,RUS
+463,United States of America,WESTERN SAHARA,ESH,FALSE,,EH,Western Sahara,El-Aaiún,27.153611,-13.203333,Africa,USA
+464,Russia,YEMEN,YEM,TRUE,@RussianEmbYemen,YE,Yemen,Sanaa,15.35,44.2,Asia,RUS
+465,United States of America,YEMEN,YEM,Suspended,@USEmbassyYemen,YE,Yemen,Sanaa,15.35,44.2,Asia,USA
+466,Russia,ZAMBIA,ZMB,TRUE,@RusembZ,ZM,Zambia,Lusaka,-15.4166666666667,28.283333,Africa,RUS
+467,United States of America,ZAMBIA,ZMB,TRUE,@usembassyzambia,ZM,Zambia,Lusaka,-15.4166666666667,28.283333,Africa,USA
+468,Russia,ZIMBABWE,ZWE,TRUE,@RuEmbZimbabwe,ZW,Zimbabwe,Harare,-17.8166666666667,31.033333,Africa,RUS
+469,United States of America,ZIMBABWE,ZWE,TRUE,@usembassyharare,ZW,Zimbabwe,Harare,-17.8166666666667,31.033333,Africa,USA

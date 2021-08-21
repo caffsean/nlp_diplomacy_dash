@@ -1,0 +1,13 @@
+,Unnamed: 0,Base,Country,ISO_A3,Embassy,HANDLE,ISO_A2,CountryName,CapitalName,CapitalLatitude,CapitalLongitude,ContinentName,Source
+0,0,Russia,AFGHANISTAN,AFG,TRUE,@RusEmbassyKabul,AF,Afghanistan,Kabul,34.5166666666667,69.183333,Asia,RUS
+1,1,United States of America,AFGHANISTAN,AFG,TRUE,@USEmbassyKabul,AF,Afghanistan,Kabul,34.5166666666667,69.183333,Asia,USA
+4,4,Russia,ALBANIA,ALB,TRUE,@AlEmbassyRussia,AL,Albania,Tirana,41.3166666666667,19.816667,Europe,RUS
+5,5,United States of America,ALBANIA,ALB,TRUE,@USEmbassyTirana,AL,Albania,Tirana,41.3166666666667,19.816667,Europe,USA
+6,6,Russia,ALGERIA,DZA,TRUE,@AmbRus_Algerie,DZ,Algeria,Algiers,36.75,3.05,Africa,RUS
+7,7,United States of America,ALGERIA,DZA,TRUE,@USEmbAlgiers,DZ,Algeria,Algiers,36.75,3.05,Africa,USA
+18,18,Russia,ARGENTINA,ARG,TRUE,@EmbRusiaEnArgEs,AR,Argentina,Buenos Aires,-34.5833333333333,-58.666667,South America,RUS
+19,19,United States of America,ARGENTINA,ARG,TRUE,@USEmbArgentina,AR,Argentina,Buenos Aires,-34.5833333333333,-58.666667,South America,USA
+20,20,Russia,ARMENIA,ARM,TRUE,@armembrus,AM,Armenia,Yerevan,40.16666666666671,44.5,Europe,RUS
+21,21,United States of America,ARMENIA,ARM,TRUE,@usembarmenia,AM,Armenia,Yerevan,40.16666666666671,44.5,Europe,USA
+340,340,Russia,RUSSIAN FEDERATION,RUS,SELF,@mfa_russia,RU,Russia,Moscow,55.75,37.6,Europe,RUS
+445,445,United States of America,UNITED STATES OF AMERICA,USA,SELF,@StateDept,US,United States,Washington,38.883333,-77.0,Central America,USA
