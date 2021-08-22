@@ -14,8 +14,8 @@ pio.renderers.default = 'iframe'
 from country2ids import rus_country2id,us_country2id,us_languages,rus_language
 from app import app
 
-del rus_country2id['ALL']
-del us_country2id['ALL']
+# del rus_country2id['ALL']
+# del us_country2id['ALL']
 
 large_text_white = {'font-family': "Helvetica",'font-weight': '300','font-size': '300%','color': '#F2F2F2'}
 large_text_black = {'font-family': "Helvetica",'font-weight': '200','font-size': '300%','color': '#111111'}
@@ -238,7 +238,7 @@ def update_us_graph(ids,measure,network):
               [Input('select-rus','value'),
                Input('centrality2','value')])
 
-def update_rus_graph(ids,measure):
+def update_us_graph(ids,measure):
     filename = f'assets/network_data/{measure}/RUS_{ids}_network_{measure}_new.pkl'
     graph_data = pkl.load(open(filename, "rb"))
 

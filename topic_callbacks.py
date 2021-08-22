@@ -13,8 +13,23 @@ from app import app
 
 template = 'plotly_dark'
 
-@app.callback(Output('us_topic','figure'),
-                Output('topic-title','children'),
+@app.callback(Output('opt2-embID','options'),
+                Input('network_dropdown','value'))
+# def update_emb_ids(network):
+#     if network=='Russia':
+#         return [{'label':k,'value':v} for k,v in rus_country2id.items()]
+#     else:
+#         return [{'label':k,'value':v} for k,v in us_country2id.items()]
+def update_emb_ids(network):
+    if network=='Russia':
+        return [{'label':k,'value':k} for k in rus_country2id.keys()]
+    else:
+        return [{'label':k,'value':k} for k in us_country2id.keys()]
+
+
+
+@app.callback([Output('us_topic','figure'),
+                Output('topic-title','children')],
               [Input('opt1-numtopic','value'),
                Input('opt2-embID','value'),
                Input('opt3-lang','value'),
@@ -24,19 +39,16 @@ template = 'plotly_dark'
 def update_US_graph(numtopic,embID,lang,year,network):
     if network == 'Russia':
         net = 'RUS'
-        reverse_dict = {y:x for x,y in rus_country2id.items()}
-        if embID == 'all':
-            label = 'ALL'
-        else:
-            label = reverse_dict[embID]
+        #main_options= [{'label':k,'value':v} for k,v in rus_country2id.items()]
+        country_id = rus_country2id[embID]
+        
+        
     elif network == 'United States':
         net = 'USA'
-        reverse_dict = {y:x for x,y in us_country2id.items()}
-        if embID == 'all':
-            label = 'ALL'
-        else:
-            label = reverse_dict[embID]
-    filetoload = f"assets/topic_data/{net}_{embID}_{numtopic}_topics_{lang}_lang_{year}_year.pkl"
+        #main_options = [{'label':k,'value':v} for k,v in us_country2id.items()]
+        country_id = us_country2id[embID]
+
+    filetoload = f"assets/topic_data/{net}_{country_id}_{numtopic}_topics_{lang}_lang_{year}_year.pkl"
     with open(filetoload, "rb") as input_file:
         heatmap_data = pkl.load(input_file)
     labels = heatmap_data['label']
@@ -47,7 +59,7 @@ def update_US_graph(numtopic,embID,lang,year,network):
     fig.update_layout(margin=dict(l=30, r=30, t=40, b=30))
     fig.update_layout(height=800)
     fig['layout']['yaxis']['autorange'] = "reversed"
-    title = f'Topics of {network} in {label}'
+    title = f'Topics of {network} in {embID}'
     return fig, title
 
 

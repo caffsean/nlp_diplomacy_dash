@@ -6,7 +6,7 @@ certifi==2021.5.30
 charset-normalizer==2.0.4
 click==8.0.1
 cycler==0.10.0
-Cython==0.29.24
+#Cython==0.29.24
 dash==1.21.0
 dash-bootstrap-components==0.13.0
 dash-core-components==1.17.1

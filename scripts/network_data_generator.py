@@ -269,6 +269,7 @@ def generate_network_data(source,target,measure,SI_diffusion_model=False):
 # if using db calls instead comment the following line
 data = pd.read_csv('tweets.csv', low_memory=False)
 
+# generates embassy ids
 profiles = pd.read_csv('profiles.csv',usecols=['user_id','screen_name'],low_memory=False)
 embassies = pd.read_csv('base_info_capitals.txt').rename({'HANDLE':'screen_name'},axis=1)
 embassies['screen_name'] = embassies['screen_name'].str.replace('@','')
