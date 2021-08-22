@@ -94,8 +94,7 @@ card_content_rus = [dbc.CardBody(
     ]
 
 us_labels_dropdown = dcc.Dropdown(id='select-us',
-                                  options=[{'label':k,'value':v} for k,v in us_country2id.items()],
-                                  value = list(us_country2id.values())[0])
+                                  value = 'AFGHANISTAN')
 
 us_emb_network = cyto.Cytoscape(id="us-network",
                                 autoungrabify = False,
@@ -184,6 +183,21 @@ network_layout = html.Div([
 
 #_________________________app callbacks_________________________#
 
+@app.callback(Output('select-us','options'),
+                Input('network-dropdown','value'))
+# def update_emb_ids(network):
+#     if network=='Russia':
+#         return [{'label':k,'value':v} for k,v in rus_country2id.items()]
+#     else:
+#         return [{'label':k,'value':v} for k,v in us_country2id.items()]
+def update_emb_ids(network):
+    if network=='Russia':
+        return [{'label':k,'value':k} for k in rus_country2id.keys()]
+    else:
+        return [{'label':k,'value':k} for k in us_country2id.keys()]
+
+
+
 @app.callback([Output('us-network','elements'),
                Output('us-trans','children'),
               Output('us-avg-clust','children'),
@@ -209,23 +223,21 @@ def update_us_graph(ids,measure,network):
     '''
     if network == 'Russia':
         net = 'RUS'
-        reverse_dict = {y:x for x,y in rus_country2id.items()}
-        label = reverse_dict[ids]
+        country_id = rus_country2id[ids]
     elif network == 'United States':
         net = 'USA'
-        reverse_dict = {y:x for x,y in us_country2id.items()}
-        label = reverse_dict[ids]
+        country_id = us_country2id[ids]
 
-    filename = f'assets/network_data/{measure}/{net}_{ids}_network_{measure}_new.pkl'
+    filename = f'assets/network_data/{measure}/{net}_{country_id}_network_{measure}_new.pkl'
     graph_data = pkl.load(open(filename, "rb"))
 
-    measure_data = pkl.load(open(f"assets/network_data/measures/{net}_{ids}_network_{measure}.pkl",'rb'))
+    measure_data = pkl.load(open(f"assets/network_data/measures/{net}_{country_id}_network_{measure}.pkl",'rb'))
 
     trans = f"Transitivity score: {measure_data['transitivity']:.4f}"
     clcoef = f"Average cluster coeff: {measure_data['avg_clustering_coefficient']:.4f}"
     hubs = f"Top 5 hub nodes: {', '.join(measure_data['hub5'])}"
     auths = f"Top 5 authority nodes: {', '.join(measure_data['auth5'])}"
-    title = f'Named Entity Co-occurrence: Embassy of {network} in {label}'
+    title = f'Named Entity Co-occurrence: Embassy of {network} in {ids}'
     return graph_data,trans,clcoef,hubs,auths,title
 
 ## Update russian network
