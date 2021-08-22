@@ -137,7 +137,7 @@ network_layout = html.Div([
                                 dbc.CardBody([
                                     dbc.Row([
                                         dbc.Col([
-                                            html.H3('Search Topic Models',style=medium_text_white),
+                                            html.H3('Search entity networks',style=medium_text_white),
                                             html.Br(),
                                             ])
                                         ]),
@@ -185,11 +185,7 @@ network_layout = html.Div([
 
 @app.callback(Output('select-us','options'),
                 Input('network-dropdown','value'))
-# def update_emb_ids(network):
-#     if network=='Russia':
-#         return [{'label':k,'value':v} for k,v in rus_country2id.items()]
-#     else:
-#         return [{'label':k,'value':v} for k,v in us_country2id.items()]
+
 def update_emb_ids(network):
     if network=='Russia':
         return [{'label':k,'value':k} for k in rus_country2id.keys()]
@@ -240,7 +236,7 @@ def update_us_graph(ids,measure,network):
     title = f'Named Entity Co-occurrence: Embassy of {network} in {ids}'
     return graph_data,trans,clcoef,hubs,auths,title
 
-## Update russian network
+## Update russian network - this is not necessary anymore
 
 @app.callback([Output('rus-network','elements'),
                Output('rus-trans','children'),
