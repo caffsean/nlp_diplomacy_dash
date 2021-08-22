@@ -5,17 +5,12 @@ Author - caffsean
 
 These are the callbacks for the 'Explorer' dashboard.
 """
-from urllib.parse import parse_qs, unquote
-import json
-import plotly
+
 import plotly.express as px
 import plotly.graph_objects as go
 import dash
 from scipy import stats
 from plotly.subplots import make_subplots
-from dash import callback_context
-import dash_core_components as dcc
-import dash_html_components as html
 import dash_bootstrap_components as dbc
 from dash.dependencies import Output, Input, State, ALL, ALLSMALLER, MATCH
 from dash.exceptions import PreventUpdate
@@ -30,13 +25,7 @@ from tslearn.metrics import dtw, dtw_path
 from collections import OrderedDict
 from sklearn.preprocessing import MinMaxScaler
 from wordcloud import WordCloud
-
-
 pd.options.display.max_columns = None
-# for p in [plotly, dash, jd, dcc, html, dbc, pd, np]:
-#     print(f'{p.__name__:-<30}v{p.__version__}')
-from sklearn.preprocessing import MinMaxScaler
-from wordcloud import WordCloud
 
 ## Import app file to make the app run
 from app import app
