@@ -195,6 +195,18 @@ network_layout = html.Div([
                Input('network-dropdown','value')])
 
 def update_us_graph(ids,measure,network):
+    '''
+    select by entity first and load necessary pickle files
+    id - of the Embassy
+    measure - Centrality measure
+    network - Entity
+
+    Output: graph_data - network elements for cytoscape
+            trans - Transitivity score
+            clcoef - Average Cluster Coefficient
+            hubs - Five nodes with most nodes point to
+            auths - Top five authority who points to other nodes
+    '''
     if network == 'Russia':
         net = 'RUS'
         reverse_dict = {y:x for x,y in rus_country2id.items()}
@@ -216,6 +228,7 @@ def update_us_graph(ids,measure,network):
     title = f'Named Entity Co-occurrence: Embassy of {network} in {label}'
     return graph_data,trans,clcoef,hubs,auths,title
 
+## Update russian network
 
 @app.callback([Output('rus-network','elements'),
                Output('rus-trans','children'),
@@ -225,7 +238,7 @@ def update_us_graph(ids,measure,network):
               [Input('select-rus','value'),
                Input('centrality2','value')])
 
-def update_us_graph(ids,measure):
+def update_rus_graph(ids,measure):
     filename = f'assets/network_data/{measure}/RUS_{ids}_network_{measure}_new.pkl'
     graph_data = pkl.load(open(filename, "rb"))
 
