@@ -31,4 +31,4 @@ Our data science team proposes a heuristic approach driven by data mining and NL
 
 ### Full Embassy Dashboard Data
 The version available in the Git repository only contains a sample of this larger dataset, which consists of all of the embassies. See this assets folder for complete files
-https://drive.google.com/drive/folders/1iB_k_Al3MJt-287WP6kBPscgFPC5P3Zo?usp=sharing
+https://drive.google.com/drive/folders/1M5ODnjcNyYR4Xt5OJKE7Z1iuqRsgMaoB?usp=sharing
