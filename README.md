@@ -11,6 +11,8 @@ In an effort to make sense of ‘the international’, we chose to study Twitter
 
 Our data science team proposes a heuristic approach driven by data mining and NLP techniques in order to shape the content of these millions of tweets into a navigable framework. In doing so, we hope to create a tool that enables scholars and policymakers to discover mathematical patterns that reflect qualitative insights. We thus propose the International Relations of Twitter dashboard as a tool for dissecting the interactions of nation states on Twitter. In order to demonstrate the potential of this approach, we have created a prototype of the dashboard application that includes the diplomatic Twitter footprint of the United States and Russia, totalling nearly 300 active accounts. Though the Cold War rivals allow for ample exploration of the world of diplomatic messaging, we hope that future iterations of the dashboard application might include the embassy networks of all nation states. Ultimately, we think that this application would not only be a tool to answer questions, but also a framework for finding the right questions to ask. As we demonstrate below, our dashboard app is a tool capable of providing insights relevant to scholars and professionals working in a wide variety of domains. 
 
+![Alt text](/assets/screenshot_dash.png?raw=true "Optional Title")
+
 ## Dashboard Features:
 1. Explore - Network Level
    A tool for exploring the diplomatic messaging across ALL the embassies of a particular country.
