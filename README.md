@@ -14,21 +14,21 @@ Our data science team proposes a heuristic approach driven by data mining and NL
 ![Alt text](/assets/screenshot_dash.png?raw=true "Optional Title")
 
 ## Dashboard Features:
-1. Explore - Network Level
+1. Explore - Network Level - 
    A tool for exploring the diplomatic messaging across ALL the embassies of a particular country.
-2. Explore - Embassy Level
+2. Explore - Embassy Level - 
    A tool for exploring the diplomatic messaging within a particular embassy.
-3. Explore - Comparative Time Series
+3. Explore - Comparative Time Series - 
    A tool for finding similarities and differences in the behavior of embassy accounts.
-4. Hashtag Dynamics Networks
+4. Hashtag Dynamics Networks - 
    A tool for understanding the ways in which hastags are used across networks.
-5. Topic Modeling Interface
+5. Topic Modeling Interface - 
    A tool for discovering unseen topics in the text data of each embassy.
-6. Network Analysis Interface
+6. Network Analysis Interface - 
    A tool for understanding the co-occurrence of named entities in the text data.
-7. Document Similarity Dashboard
+7. Document Similarity Dashboard - 
    A tool for understanding semantic patterns within countries.
-8. Word Embeddings Dashboard
+8. Word Embeddings Dashboard - 
    A tool for understanding semantic patterns about countries. 
 
 ### Full Embassy Dashboard Data
