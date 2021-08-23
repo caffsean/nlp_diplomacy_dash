@@ -30,5 +30,5 @@ Our data science team proposes a heuristic approach driven by data mining and NL
    A tool for understanding semantic patterns about countries. 
 
 ### Full Embassy Dashboard Data
-The version available in the Git repository only contains a sample of this larger dataset, which consists of all of the embassies:
-https://drive.google.com/file/d/19dgtNpqda8i0V1Cs2KljI-YYbOzPqiXT/view?usp=sharing
+The version available in the Git repository only contains a sample of this larger dataset, which consists of all of the embassies. See this assets folder for complete files
+https://drive.google.com/drive/folders/1M5ODnjcNyYR4Xt5OJKE7Z1iuqRsgMaoB?usp=sharing
