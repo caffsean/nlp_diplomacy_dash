@@ -32,9 +32,9 @@ Our data science team proposes a heuristic approach driven by data mining and NL
    A tool for understanding semantic patterns about countries. 
 
 ## Launching the app
-1. First install all necessary package:
+1. First install all necessary package using either pip/pip3:\n
    ```pip install -r requirements.txt```
-2. Next, launch the app by running index.py
+2. Next, launch the app by running index.py\n
    ```python3 -m index.py```
 
 ### Full Embassy Dashboard Data
