@@ -35,11 +35,13 @@ Our data science team proposes a heuristic approach driven by data mining and NL
 1. First install all necessary package using either pip/pip3:
    
    ```shell
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
+   ```
 2. Next, launch the app by running index.py
   
   ```shell
-  python3 -m index.py```
+  python3 -m index.py
+  ```
 
 ### Full Embassy Dashboard Data
 The version available in the Git repository only contains a sample of this larger dataset, which consists of all of the embassies. See this assets folder for complete files
