@@ -31,6 +31,12 @@ Our data science team proposes a heuristic approach driven by data mining and NL
 8. Word Embeddings Dashboard - 
    A tool for understanding semantic patterns about countries. 
 
+## Launching the app
+1. First install all necessary package:
+   '''pip install -r requirements.txt'''
+2. Next, launch the app by running index.py
+   '''python3 -m index.py'''
+
 ### Full Embassy Dashboard Data
 The version available in the Git repository only contains a sample of this larger dataset, which consists of all of the embassies. See this assets folder for complete files
 https://drive.google.com/drive/folders/1M5ODnjcNyYR4Xt5OJKE7Z1iuqRsgMaoB?usp=sharing
